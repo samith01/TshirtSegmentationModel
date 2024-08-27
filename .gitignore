@@ -3,3 +3,5 @@ viewMask.py
 
 runs/
 *.cache
+
+data.zip
