@@ -1,0 +1,6 @@
+path: /media/samith/Data/Projects/TShirtSegmentation
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['Tshirt']
